@@ -1,4 +1,4 @@
-# heart-disease-prediction(ACC 0.97%)
+# 심장병 분류 예측 프로젝트(VotingClassifier, ACC 0.97%)
 
 ### Project Outline
 
