@@ -13,4 +13,4 @@
 
 > ### 모델 최종 성능: *ACC 0.97*
 
-> ### 작업 환경: *Google Colab(GPU T4)*
+> ### 작업 환경: *Google Colab*
